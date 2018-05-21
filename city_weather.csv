@@ -1,0 +1,445 @@
+City,cloudiness,humidity,id,latitude,longitude,max_temp,url,wind_speed
+qaanaaq,0,83.0,3831208,77.0,-69.0,265.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=qaanaaq,2.77
+hermanus,44,86.0,3366880,-34.0,19.0,288.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hermanus,5.02
+chuy,80,99.0,3443061,-33.0,-53.0,287.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=chuy,4.67
+qaqortoq,75,64.0,3420846,60.0,-46.0,274.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=qaqortoq,2.6
+xiropotamos,75,88.0,733818,41.0,24.0,291.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=xiropotamos,1.5
+sao filipe,0,100.0,3374210,14.0,-24.0,294.176,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sao filipe,6.02
+cape town,75,88.0,3369157,-33.0,18.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=cape town,7.7
+ushuaia,80,100.0,3833367,-54.0,-68.0,276.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ushuaia,6.07
+bredasdorp,48,68.0,1015776,-34.0,20.0,292.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bredasdorp,5.1
+longyearbyen,75,91.0,2729907,78.0,15.0,273.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=longyearbyen,7.2
+ponta do sol,0,80.0,3453439,-20.0,-46.0,277.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ponta do sol,1.22
+jamestown,0,58.0,2069194,-33.0,138.0,288.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=jamestown,5.47
+arraial do cabo,0,93.0,3471451,-22.0,-42.0,293.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=arraial do cabo,6.47
+kruisfontein,0,89.0,986717,-34.0,24.0,289.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kruisfontein,3.67
+lopsmarka,75,100.0,3146942,67.0,14.0,282.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lopsmarka,8.2
+jalu,8,22.0,86049,29.0,21.0,299.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=jalu,4.42
+port elizabeth,1,100.0,4501427,39.0,-74.0,295.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=port elizabeth,2.1
+vyartsilya,0,48.0,470762,62.0,30.0,285.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vyartsilya,4.22
+voineasa,20,87.0,662530,45.0,23.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=voineasa,2.1
+east london,0,67.0,1006984,-33.0,27.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=east london,3.6
+klaksvik,92,81.0,2618795,62.0,-6.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=klaksvik,4.1
+cidreira,76,98.0,3466165,-30.0,-50.0,285.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=cidreira,6.67
+harper,40,88.0,4696310,30.0,-99.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=harper,2.52
+dingle,20,98.0,1714733,11.0,122.0,301.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=dingle,1.67
+arlit,0,25.0,2447513,18.0,7.0,298.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=arlit,1.32
+hammerfest,40,70.0,779683,70.0,23.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hammerfest,12.3
+upernavik,20,96.0,3418910,72.0,-56.0,269.176,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=upernavik,2.82
+muros,0,93.0,3115824,42.0,-9.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=muros,1.5
+nanortalik,88,94.0,3421765,60.0,-45.0,272.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nanortalik,1.07
+luderitz,12,92.0,3355672,-26.0,15.0,285.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=luderitz,2.67
+umm lajj,0,98.0,100926,25.0,37.0,297.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=umm lajj,2.32
+torbay,75,100.0,6167817,47.0,-52.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=torbay,10.3
+mar del plata,0,94.0,3863379,-46.0,-67.0,277.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mar del plata,4.67
+port alfred,0,86.0,964432,-33.0,26.0,290.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=port alfred,4.37
+ribeira grande,64,100.0,3372707,38.0,-28.0,289.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ribeira grande,9.27
+alakurtti,24,55.0,583472,66.0,30.0,285.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=alakurtti,3.37
+lagoa,0,93.0,2267254,37.0,-8.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lagoa,1.5
+dunkwa,0,95.0,2301400,5.0,-1.0,295.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=dunkwa,2.22
+nador,24,87.0,2541479,35.0,-2.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nador,2.97
+tromso,75,87.0,3133895,69.0,18.0,279.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tromso,1.5
+tsumeb,56,61.0,3352593,-19.0,17.0,285.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tsumeb,2.67
+narsaq,75,64.0,3421719,60.0,-46.0,274.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=narsaq,2.6
+gat,0,83.0,2249901,14.0,-16.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=gat,2.1
+porto novo,0,81.0,6322184,-23.0,-45.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=porto novo,1.0
+valandovo,92,95.0,784733,41.0,22.0,286.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=valandovo,0.92
+wundanyi,0,94.0,178073,-3.0,38.0,289.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=wundanyi,1.67
+nalut,8,93.0,2214433,31.0,10.0,288.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nalut,2.22
+saldanha,0,90.0,2737599,41.0,-6.0,281.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=saldanha,1.17
+sistranda,0,71.0,3139597,63.0,8.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sistranda,3.1
+atar,0,22.0,2381334,20.0,-13.0,295.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=atar,1.42
+jalingo,8,61.0,2351027,10.0,10.0,299.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=jalingo,6.02
+faya,0,77.0,110690,18.0,42.0,292.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=faya,3.1
+nouakchott,0,98.0,2377450,18.0,-15.0,292.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nouakchott,7.42
+trairi,88,100.0,3386177,-3.0,-39.0,300.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=trairi,5.02
+laguna,0,22.0,4013704,27.0,-110.0,298.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=laguna,1.72
+bubaque,0,88.0,2374583,11.0,-15.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bubaque,2.6
+nadvoitsy,0,55.0,523662,63.0,34.0,284.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nadvoitsy,2.72
+mungwi,12,81.0,904241,-10.0,31.0,287.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mungwi,2.17
+dobric,0,87.0,685204,47.0,24.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=dobric,1.62
+poli,36,81.0,2222539,8.0,13.0,296.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=poli,2.22
+sokolo,8,51.0,2450849,14.0,-6.0,299.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sokolo,2.12
+mehamn,80,88.0,778707,71.0,27.0,277.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mehamn,7.72
+kasempa,0,68.0,912628,-13.0,25.0,284.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kasempa,2.62
+constantine,75,100.0,2501152,36.0,6.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=constantine,3.1
+tasiilaq,76,79.0,3424607,65.0,-37.0,271.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tasiilaq,0.5
+grindavik,75,86.0,3416888,63.0,-22.0,277.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=grindavik,3.6
+springbok,0,82.0,3361142,-29.0,17.0,274.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=springbok,0.77
+georgetown,75,100.0,3378644,6.0,-58.0,297.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=georgetown,2.1
+mucurici,32,49.0,3456591,-18.0,-40.0,292.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mucurici,3.07
+eenhana,0,44.0,3357804,-17.0,16.0,287.176,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=eenhana,3.87
+abnub,0,50.0,362973,27.0,31.0,292.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=abnub,1.32
+laziska gorne,0,93.0,3093785,50.0,18.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=laziska gorne,1.5
+axim,76,98.0,2303611,4.0,-2.0,300.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=axim,4.62
+itacare,40,94.0,3460940,-14.0,-39.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=itacare,1.0
+umm kaddadah,0,45.0,364933,13.0,26.0,293.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=umm kaddadah,1.47
+bambari,76,93.0,240604,5.0,20.0,294.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bambari,3.12
+macia,24,94.0,1024701,-25.0,33.0,289.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=macia,1.27
+olivet,0,93.0,2989611,47.0,1.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=olivet,1.0
+hukuntsi,36,65.0,933726,-23.0,21.0,285.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hukuntsi,1.07
+camacha,75,72.0,2270385,33.0,-16.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=camacha,3.1
+olinda,75,78.0,3650121,-2.0,-79.0,297.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=olinda,4.1
+vardo,1,82.0,4372777,39.0,-77.0,296.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vardo,1.42
+utinga,40,88.0,3392998,-5.0,-35.0,299.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=utinga,3.6
+abeche,8,47.0,245785,13.0,20.0,294.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=abeche,2.22
+cervo,0,88.0,3469169,-22.0,-46.0,276.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=cervo,1.87
+canakkale,0,82.0,749780,40.0,26.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=canakkale,2.1
+hereford,0,85.0,2647074,52.0,-2.0,282.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hereford,1.42
+mao,40,100.0,3496831,19.0,-71.0,297.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mao,3.1
+alexandria,75,74.0,4314550,31.0,-92.0,299.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=alexandria,2.1
+lixourion,20,77.0,258175,38.0,20.0,292.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lixourion,5.07
+sokoni,0,76.0,901344,-12.0,28.0,286.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sokoni,2.57
+pereslavl-zalesskiy,0,80.0,511359,56.0,38.0,280.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=pereslavl-zalesskiy,1.32
+touros,92,92.0,3386213,-5.0,-35.0,298.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=touros,4.37
+senno,48,78.0,554873,57.0,27.0,282.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=senno,1.22
+folldal,0,65.0,3156868,62.0,10.0,275.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=folldal,1.17
+soyo,80,89.0,2236967,-6.0,12.0,297.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=soyo,1.97
+beli manastir,0,87.0,3204320,45.0,18.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=beli manastir,3.1
+ostrovnoy,32,79.0,556268,68.0,39.0,278.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ostrovnoy,8.42
+vila franca do campo,40,82.0,3372472,37.0,-25.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vila franca do campo,5.7
+dembi dolo,88,96.0,339448,8.0,34.0,290.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=dembi dolo,0.67
+marzuq,0,47.0,72181,14.0,46.0,285.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=marzuq,1.12
+madarounfa,0,60.0,2441526,13.0,7.0,299.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=madarounfa,6.07
+karacabey,88,97.0,744537,40.0,28.0,288.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=karacabey,1.62
+severodvinsk,0,93.0,496285,64.0,39.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=severodvinsk,2.0
+muhos,0,66.0,645765,64.0,26.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=muhos,2.1
+sjovegan,75,93.0,3139516,68.0,17.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sjovegan,3.6
+husavik,0,40.0,5961417,50.0,-96.0,287.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=husavik,3.32
+am timan,8,69.0,245338,11.0,20.0,299.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=am timan,5.27
+siniscola,0,93.0,3166509,40.0,9.0,289.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=siniscola,1.0
+tripoli,20,77.0,252601,37.0,22.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tripoli,0.72
+marsa matruh,56,59.0,352733,31.0,27.0,292.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=marsa matruh,3.72
+pistsovo,0,68.0,509278,57.0,40.0,282.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=pistsovo,1.37
+margate,8,86.0,2158744,-43.0,147.0,285.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=margate,10.47
+thohoyandou,80,100.0,949224,-22.0,30.0,288.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=thohoyandou,1.22
+ilulissat,24,74.0,3423146,69.0,-51.0,271.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ilulissat,1.5
+milyutinskaya,88,66.0,526504,48.0,41.0,292.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=milyutinskaya,3.92
+rorvik,64,76.0,3141310,64.0,11.0,284.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=rorvik,5.82
+nioro,0,57.0,2413070,13.0,-15.0,295.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nioro,3.42
+aswan,0,40.0,359792,24.0,32.0,297.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=aswan,1.07
+haverfordwest,88,93.0,2647311,51.0,-4.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=haverfordwest,1.5
+slavutych,24,94.0,6930327,51.0,30.0,282.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=slavutych,4.32
+berlevag,64,96.0,780687,70.0,29.0,276.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=berlevag,7.57
+raudeberg,20,76.0,3146487,61.0,5.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=raudeberg,9.8
+oussouye,75,94.0,2246901,12.0,-16.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=oussouye,2.1
+tiszaluc,56,73.0,714739,48.0,21.0,286.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tiszaluc,5.27
+vestmannaeyjar,80,100.0,3412093,63.0,-20.0,278.376,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vestmannaeyjar,5.32
+reitz,100,96.0,962847,-27.0,28.0,282.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=reitz,1.42
+fiche,0,93.0,337771,9.0,38.0,283.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=fiche,1.17
+eusebio,40,83.0,3400558,-3.0,-38.0,300.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=eusebio,2.1
+bouna,8,77.0,2290849,9.0,-3.0,299.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bouna,4.32
+fosforitnyy,0,81.0,562445,55.0,38.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=fosforitnyy,3.0
+ilhabela,0,100.0,3461425,-23.0,-45.0,294.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ilhabela,6.67
+mahon,75,100.0,2965139,51.0,-8.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mahon,2.6
+shiringushi,24,55.0,494275,53.0,42.0,285.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=shiringushi,4.02
+simand,0,100.0,667148,46.0,21.0,286.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=simand,4.1
+namibe,0,99.0,3347019,-15.0,12.0,292.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=namibe,5.37
+korhogo,0,75.0,2286304,9.0,-5.0,299.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=korhogo,4.72
+sao joao da barra,24,100.0,3448903,-21.0,-41.0,295.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sao joao da barra,7.67
+katakwi,56,96.0,231947,1.0,33.0,291.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=katakwi,1.52
+marrakesh,75,87.0,2542997,31.0,-7.0,287.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=marrakesh,2.1
+skjervoy,92,98.0,777682,70.0,20.0,278.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=skjervoy,7.72
+skibbereen,75,100.0,2961459,51.0,-9.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=skibbereen,2.6
+karasburg,0,82.0,3356343,-28.0,18.0,276.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=karasburg,1.32
+misratah,8,98.0,2214846,32.0,15.0,292.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=misratah,6.92
+adrar,0,27.0,2508813,27.0,0.0,297.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=adrar,5.1
+teberda,64,91.0,483873,43.0,41.0,275.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=teberda,0.62
+port said,0,31.0,360923,25.0,30.0,298.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=port said,2.82
+scarborough,90,100.0,2638419,54.0,0.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=scarborough,1.0
+aanekoski,0,54.0,662095,62.0,25.0,286.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=aanekoski,3.1
+itarema,32,90.0,3393692,-2.0,-39.0,298.376,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=itarema,2.67
+palapye,88,84.0,933182,-22.0,27.0,284.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=palapye,1.52
+sorland,92,97.0,3137469,67.0,12.0,280.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sorland,5.67
+xai-xai,44,100.0,1024552,-25.0,33.0,293.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=xai-xai,0.92
+mitsamiouli,20,73.0,921786,-11.0,43.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mitsamiouli,3.1
+agadir,40,77.0,2561668,30.0,-9.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=agadir,2.6
+bonthe,92,89.0,2409914,7.0,-12.0,299.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bonthe,1.27
+salvador,40,88.0,3450554,-12.0,-38.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=salvador,1.5
+maltahohe,0,75.0,3355624,-24.0,16.0,274.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=maltahohe,0.77
+garissa,48,80.0,197745,0.0,39.0,296.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=garissa,4.87
+wadi maliz,40,100.0,2464157,36.0,8.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=wadi maliz,1.0
+mengen,56,93.0,2871964,48.0,9.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mengen,1.0
+impfondo,92,99.0,2259655,1.0,18.0,295.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=impfondo,1.32
+boddam,75,93.0,2655288,57.0,-1.0,282.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=boddam,5.1
+najran,0,31.0,103630,17.0,44.0,296.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=najran,2.1
+jucas,8,81.0,3397119,-6.0,-39.0,294.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=jucas,1.32
+gobabis,24,58.0,3357247,-22.0,18.0,283.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=gobabis,1.32
+avaton,75,88.0,736677,40.0,24.0,291.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=avaton,1.5
+catabola,8,79.0,3350372,-12.0,17.0,286.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=catabola,1.27
+vera cruz,0,83.0,3445304,-22.0,-49.0,278.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vera cruz,1.37
+chake chake,92,100.0,160677,-5.0,39.0,298.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=chake chake,6.52
+izvoarele,48,88.0,671187,45.0,27.0,287.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=izvoarele,4.37
+beloha,0,91.0,1067565,-25.0,45.0,291.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=beloha,4.37
+bathsheba,75,83.0,3374083,13.0,-59.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bathsheba,7.7
+benghazi,56,31.0,88319,32.0,20.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=benghazi,6.2
+bud,44,39.0,7626370,62.0,6.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bud,2.6
+ponta do sol,0,80.0,3453439,-20.0,-46.0,277.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ponta do sol,1.22
+salinopolis,92,100.0,3389822,0.0,-47.0,300.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=salinopolis,6.92
+avila,75,73.0,4361885,38.0,-76.0,299.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=avila,4.1
+groa,90,100.0,2991771,48.0,-4.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=groa,3.6
+chipata,80,66.0,918702,-13.0,32.0,289.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=chipata,1.27
+tikhvin,24,77.0,483019,59.0,33.0,281.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tikhvin,1.07
+praia da vitoria,20,72.0,3372760,38.0,-27.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=praia da vitoria,10.42
+plouzane,20,100.0,2986626,48.0,-4.0,282.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=plouzane,2.6
+vagur,92,96.0,2610806,61.0,-6.0,281.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vagur,4.77
+maua,44,95.0,187231,0.0,37.0,289.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=maua,2.07
+locri,20,88.0,2524371,38.0,16.0,291.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=locri,0.87
+mosjoen,68,76.0,3145386,65.0,13.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mosjoen,7.7
+moba,32,96.0,212962,-7.0,29.0,292.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=moba,2.27
+navashino,0,54.0,523198,55.0,42.0,282.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=navashino,4.82
+port-gentil,80,100.0,2396518,0.0,8.0,299.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=port-gentil,4.82
+havoysund,40,70.0,779622,71.0,24.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=havoysund,12.3
+tanout,0,25.0,2439155,14.0,8.0,295.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tanout,1.52
+takoradi,56,99.0,2294915,4.0,-1.0,299.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=takoradi,3.07
+cham,0,87.0,2940204,49.0,12.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=cham,0.5
+vila velha,40,83.0,6320062,-3.0,-38.0,300.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vila velha,2.1
+abu zabad,0,66.0,380348,12.0,29.0,297.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=abu zabad,6.02
+lerwick,92,100.0,2644605,60.0,-1.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lerwick,0.5
+paracuru,40,83.0,3393115,-3.0,-39.0,300.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=paracuru,2.1
+ubrique,0,100.0,2510112,36.0,-5.0,289.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ubrique,1.5
+tuapse,92,75.0,480716,44.0,39.0,290.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tuapse,1.07
+jizan,20,70.0,105299,16.0,42.0,305.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=jizan,1.5
+los llanos de aridane,20,67.0,2514651,28.0,-17.0,289.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=los llanos de aridane,3.1
+mamou,88,96.0,2417833,10.0,-12.0,293.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mamou,1.42
+bumba,88,100.0,217745,2.0,22.0,293.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bumba,1.27
+kutum,0,54.0,371745,14.0,24.0,288.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kutum,1.22
+roald,12,54.0,3141667,62.0,6.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=roald,6.2
+castrovillari,76,87.0,6540785,39.0,16.0,287.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=castrovillari,1.22
+kanel,0,29.0,2250849,15.0,-13.0,305.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kanel,3.1
+mugango,75,88.0,152689,-1.0,33.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mugango,2.6
+quelimane,40,93.0,1028434,-17.0,36.0,292.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=quelimane,1.5
+betanzos,0,93.0,3128071,43.0,-8.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=betanzos,2.1
+lipari,20,88.0,2524379,38.0,14.0,291.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lipari,1.17
+puerto del rosario,75,72.0,2512186,28.0,-13.0,291.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=puerto del rosario,4.1
+boden,64,81.0,606531,65.0,21.0,282.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=boden,1.0
+inongo,64,94.0,2315417,-1.0,18.0,295.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=inongo,1.62
+touba,0,83.0,2244322,14.0,-15.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=touba,2.1
+belfast,88,93.0,2655984,54.0,-5.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=belfast,2.1
+inhambane,92,90.0,1045114,-23.0,35.0,297.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=inhambane,3.67
+navalmoral de la mata,32,91.0,2513324,39.0,-5.0,283.376,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=navalmoral de la mata,1.17
+gemena,92,98.0,2315728,3.0,19.0,295.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=gemena,1.07
+somerset east,0,84.0,954161,-32.0,25.0,281.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=somerset east,2.57
+sikasso,0,83.0,2451185,11.0,-5.0,297.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sikasso,4.32
+stokmarknes,92,97.0,3136690,68.0,14.0,279.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=stokmarknes,4.87
+buraydah,20,41.0,107304,26.0,43.0,299.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=buraydah,1.5
+caravelas,56,100.0,3466980,-17.0,-39.0,297.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=caravelas,3.77
+karpogory,0,70.0,552256,64.0,44.0,280.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=karpogory,1.57
+thyolo,32,92.0,923652,-16.0,35.0,285.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=thyolo,1.17
+gamba,0,80.0,1281256,28.0,88.0,273.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=gamba,1.17
+prado,92,100.0,3452483,-17.0,-39.0,296.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=prado,1.87
+pombas,0,83.0,3448350,-15.0,-54.0,283.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=pombas,0.87
+damara,40,94.0,2387435,4.0,18.0,295.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=damara,1.0
+cayenne,0,83.0,3382160,4.0,-52.0,299.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=cayenne,2.6
+oranjemund,56,100.0,3354071,-28.0,16.0,287.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=oranjemund,1.02
+carnarvon,88,100.0,1014034,-30.0,22.0,279.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=carnarvon,3.42
+sohag,0,51.0,347796,26.0,31.0,295.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sohag,1.27
+maragogi,92,99.0,3395458,-9.0,-35.0,296.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=maragogi,1.82
+wanlaweyn,64,97.0,50672,2.0,44.0,296.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=wanlaweyn,2.22
+huambo,88,88.0,3348313,-12.0,15.0,288.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=huambo,0.52
+tripoli,20,77.0,252601,37.0,22.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tripoli,0.72
+rafai,80,99.0,236524,4.0,23.0,293.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=rafai,1.57
+leua,0,56.0,876233,-11.0,20.0,289.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=leua,1.87
+aranos,0,53.0,3358666,-24.0,19.0,276.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=aranos,0.52
+say,0,52.0,2439812,13.0,2.0,305.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=say,4.6
+yekimovichi,0,84.0,468116,54.0,33.0,281.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=yekimovichi,6.47
+coria,0,91.0,2519234,39.0,-6.0,282.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=coria,1.17
+sokoto,0,61.0,2322911,13.0,5.0,301.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sokoto,5.87
+santa maria,0,100.0,3450083,-29.0,-53.0,282.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=santa maria,1.5
+yangambi,64,99.0,203717,0.0,24.0,295.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=yangambi,0.97
+majdanpek,80,98.0,788357,44.0,21.0,286.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=majdanpek,1.32
+sitia,68,94.0,253759,35.0,26.0,295.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sitia,3.02
+henties bay,92,100.0,3356832,-22.0,14.0,287.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=henties bay,1.97
+vila do maio,20,73.0,3374120,15.0,-23.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vila do maio,6.2
+luba,12,82.0,1705460,17.0,120.0,301.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=luba,1.62
+tessalit,12,25.0,2449893,20.0,1.0,299.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tessalit,4.57
+ibb,0,90.0,74477,13.0,44.0,283.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ibb,0.72
+goure,0,45.0,2444219,13.0,10.0,294.176,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=goure,0.97
+caluquembe,56,90.0,3351024,-13.0,14.0,286.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=caluquembe,1.22
+maceio,20,94.0,3395981,-9.0,-35.0,296.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=maceio,2.1
+cabedelo,40,88.0,3404558,-6.0,-34.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=cabedelo,1.5
+luanda,75,83.0,2240449,-8.0,13.0,296.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=luanda,2.6
+visby,32,47.0,2662689,57.0,18.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=visby,3.1
+ippy,88,96.0,238566,6.0,21.0,294.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ippy,1.77
+ginda,0,50.0,1253628,30.0,78.0,291.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ginda,0.67
+dubti,48,65.0,338554,11.0,41.0,297.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=dubti,1.22
+skelleftea,0,93.0,602913,64.0,20.0,282.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=skelleftea,1.5
+foumban,48,96.0,2231506,5.0,10.0,289.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=foumban,1.32
+gambela,88,96.0,337405,8.0,34.0,290.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=gambela,0.67
+khadyzhensk,68,85.0,550846,44.0,39.0,288.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=khadyzhensk,0.62
+chiredzi,100,99.0,893485,-21.0,31.0,291.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=chiredzi,4.72
+kjopsvik,92,93.0,3150002,68.0,16.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kjopsvik,6.2
+hun,36,87.0,2790471,50.0,4.0,287.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hun,3.6
+hofn,92,100.0,2630299,64.0,-15.0,279.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hofn,13.47
+belmonte,0,91.0,8010472,40.0,-7.0,282.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=belmonte,0.62
+bezhetsk,8,78.0,576566,57.0,36.0,280.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bezhetsk,1.32
+sable-sur-sarthe,0,87.0,2982076,47.0,0.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sable-sur-sarthe,1.5
+priladozhskiy,0,66.0,866055,59.0,31.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=priladozhskiy,3.0
+tema,75,94.0,2294700,5.0,0.0,299.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tema,4.1
+zabkowice slaskie,0,87.0,3081046,50.0,16.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=zabkowice slaskie,0.5
+bafoulabe,8,40.0,2460755,13.0,-10.0,299.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bafoulabe,3.92
+christiana,76,95.0,1013550,-27.0,25.0,283.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=christiana,2.52
+ongandjera,0,51.0,3354178,-17.0,15.0,283.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ongandjera,1.52
+richards bay,0,88.0,962367,-28.0,32.0,291.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=richards bay,4.57
+usoke,0,82.0,149114,-5.0,32.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=usoke,3.12
+capaci,0,93.0,2525392,38.0,13.0,291.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=capaci,1.0
+kommunar,0,66.0,545788,59.0,30.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kommunar,3.0
+beira,0,93.0,3119841,43.0,-8.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=beira,2.1
+vestmanna,92,81.0,2610343,62.0,-7.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vestmanna,4.1
+brae,92,100.0,2654970,60.0,-1.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=brae,0.5
+tabou,20,100.0,2281120,4.0,-7.0,300.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tabou,3.12
+maloy,68,87.0,1628757,1.0,118.0,301.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=maloy,1.22
+serenje,24,79.0,898912,-13.0,30.0,285.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=serenje,2.37
+sawakin,0,100.0,367544,19.0,37.0,295.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sawakin,1.17
+lehututu,36,65.0,933548,-23.0,21.0,285.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lehututu,1.07
+ornskoldsvik,0,76.0,2686469,63.0,18.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ornskoldsvik,2.1
+rucar,56,100.0,668542,45.0,25.0,280.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=rucar,0.97
+mbini,40,100.0,2308278,1.0,9.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mbini,3.32
+tulu bolo,64,100.0,327234,8.0,38.0,283.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tulu bolo,0.67
+marawi,68,85.0,1701054,8.0,124.0,299.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=marawi,1.22
+nelidovo,8,82.0,522775,56.0,32.0,278.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nelidovo,1.57
+tabuk,32,79.0,1684803,17.0,121.0,299.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tabuk,0.77
+bayir,0,82.0,304183,37.0,28.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bayir,1.5
+embu,92,100.0,198476,0.0,37.0,288.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=embu,1.32
+praia,0,93.0,3460954,-20.0,-43.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=praia,1.17
+portoferraio,0,87.0,3170094,42.0,10.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=portoferraio,1.0
+narok,20,95.0,184379,-1.0,35.0,285.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=narok,1.77
+kilindoni,80,99.0,157429,-7.0,39.0,300.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kilindoni,6.47
+tshikapa,12,94.0,204953,-6.0,20.0,295.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tshikapa,1.52
+ajdabiya,88,15.0,89113,30.0,20.0,305.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ajdabiya,3.52
+fomboni,8,99.0,921889,-12.0,43.0,300.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=fomboni,7.02
+libreville,40,94.0,2399697,0.0,9.0,296.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=libreville,2.1
+monze,0,79.0,906044,-16.0,27.0,281.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=monze,1.62
+pitimbu,40,88.0,3391889,-7.0,-34.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=pitimbu,1.5
+arua,80,95.0,235039,3.0,30.0,292.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=arua,1.17
+bata,40,100.0,2310046,1.0,9.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bata,3.32
+sinnai,0,93.0,6539309,39.0,9.0,289.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sinnai,2.1
+kabare,80,100.0,216281,-1.0,29.0,288.376,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kabare,0.32
+luwero,32,91.0,229746,0.0,32.0,290.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=luwero,1.17
+akureyri,90,93.0,2633274,65.0,-18.0,275.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=akureyri,5.7
+uyo,68,94.0,2319480,5.0,7.0,297.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=uyo,1.67
+yokadouma,56,99.0,2220853,3.0,15.0,293.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=yokadouma,1.07
+mayumba,88,100.0,2399001,-3.0,10.0,298.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mayumba,3.07
+moyale,92,100.0,186180,3.0,39.0,291.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=moyale,1.37
+remontnoye,12,72.0,502185,46.0,43.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=remontnoye,3.0
+morondava,0,83.0,1058381,-20.0,44.0,295.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=morondava,4.02
+bilma,0,17.0,2446796,18.0,12.0,297.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bilma,3.87
+mumford,8,95.0,2297810,5.0,0.0,297.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mumford,2.97
+bulawayo,92,98.0,894701,-20.0,28.0,286.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bulawayo,2.52
+opuwo,0,68.0,3354077,-18.0,13.0,278.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=opuwo,1.07
+guarda,8,92.0,2738785,40.0,-7.0,282.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=guarda,1.17
+una,40,94.0,3445781,-15.0,-39.0,298.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=una,1.0
+chioggia,0,67.0,3178784,45.0,12.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=chioggia,3.6
+canto do buriti,0,79.0,3403251,-8.0,-42.0,294.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=canto do buriti,1.22
+walvis bay,12,100.0,3359638,-22.0,14.0,286.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=walvis bay,5.92
+tamsweg,20,93.0,2763929,47.0,13.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tamsweg,0.5
+holme,0,71.0,2655237,53.0,-2.0,286.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=holme,1.5
+heilbron,8,100.0,997140,-27.0,27.0,282.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=heilbron,1.22
+rypefjord,40,70.0,847634,70.0,23.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=rypefjord,12.3
+geilo,0,64.0,3155913,60.0,8.0,279.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=geilo,2.57
+sivas,75,93.0,300617,39.0,37.0,282.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sivas,1.52
+malanville,0,78.0,2392837,11.0,3.0,299.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=malanville,4.37
+manzil salim,75,93.0,2469252,35.0,8.0,287.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=manzil salim,1.0
+uvira,88,100.0,204405,-3.0,29.0,289.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=uvira,0.42
+tiznit,92,100.0,2527089,29.0,-9.0,288.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tiznit,2.22
+abu kamal,0,27.0,174448,34.0,40.0,297.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=abu kamal,5.02
+karapyshi,0,81.0,706803,49.0,30.0,281.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=karapyshi,4.02
+krasni okny,0,74.0,860012,47.0,29.0,282.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=krasni okny,3.57
+ponta delgada,40,82.0,3372783,37.0,-25.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ponta delgada,5.7
+nangwa,0,94.0,151929,-4.0,35.0,287.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nangwa,3.57
+wladyslawowo,0,81.0,3081752,54.0,18.0,279.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=wladyslawowo,1.5
+kariba,20,82.0,889215,-16.0,28.0,288.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kariba,1.52
+bulancak,76,100.0,750317,40.0,38.0,286.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bulancak,0.72
+gravdal,8,62.0,3147822,59.0,5.0,285.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=gravdal,5.1
+watsa,88,98.0,204283,3.0,29.0,292.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=watsa,1.32
+aberfoyle,92,87.0,2653989,56.0,-4.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=aberfoyle,1.5
+kamenka,56,64.0,553725,53.0,44.0,286.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kamenka,4.57
+ouango,80,100.0,236844,4.0,22.0,293.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ouango,0.72
+pinega,12,62.0,509483,64.0,43.0,280.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=pinega,1.97
+berezanskaya,76,83.0,577380,45.0,39.0,289.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=berezanskaya,2.52
+beoumi,12,88.0,2291779,7.0,-5.0,297.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=beoumi,3.92
+mahajanga,20,73.0,1062663,-15.0,46.0,294.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mahajanga,2.1
+kabale,64,100.0,233070,-1.0,29.0,287.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kabale,0.67
+ortona,20,100.0,3171886,42.0,14.0,292.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ortona,3.12
+piacabucu,0,97.0,3454005,-10.0,-36.0,295.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=piacabucu,4.12
+bahir dar,44,45.0,342884,11.0,37.0,291.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bahir dar,1.97
+scalea,68,94.0,2523207,39.0,15.0,292.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=scalea,1.77
+ouesso,80,98.0,2255564,1.0,16.0,295.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ouesso,1.17
+taoudenni,76,39.0,2450173,22.0,-3.0,298.876,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=taoudenni,3.62
+peniche,75,93.0,2264923,39.0,-9.0,287.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=peniche,2.6
+mizan teferi,64,98.0,330534,6.0,35.0,288.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mizan teferi,0.97
+nouadhibou,0,77.0,2377457,20.0,-17.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nouadhibou,7.7
+benguela,0,100.0,3351663,-12.0,13.0,295.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=benguela,1.37
+kafanchan,64,89.0,2335713,9.0,8.0,293.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kafanchan,2.87
+svatove,80,99.0,692118,49.0,38.0,288.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=svatove,1.87
+alghero,20,93.0,3183284,40.0,8.0,290.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=alghero,1.0
+simplicio mendes,0,62.0,3387620,-7.0,-41.0,296.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=simplicio mendes,0.52
+matola,0,94.0,1039854,-25.0,32.0,289.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=matola,1.32
+kalakamati,0,93.0,933390,-20.0,27.0,284.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kalakamati,3.57
+norrtalje,0,76.0,2688250,59.0,18.0,284.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=norrtalje,3.6
+gbarnga,88,97.0,2277060,7.0,-9.0,296.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=gbarnga,1.57
+cotonou,40,83.0,2394819,6.0,2.0,301.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=cotonou,5.7
+senec,0,82.0,3057692,48.0,17.0,287.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=senec,2.6
+terrasini,0,93.0,6537752,38.0,13.0,291.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=terrasini,1.0
+agadez,48,16.0,2448085,16.0,7.0,300.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=agadez,0.87
+apatity,20,61.0,581357,67.0,33.0,284.226,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=apatity,3.02
+sribne,0,79.0,693010,50.0,32.0,282.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sribne,4.47
+durusu,0,77.0,301431,37.0,40.0,297.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=durusu,1.0
+lucapa,32,84.0,145724,-8.0,20.0,291.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lucapa,0.82
+kalevala,8,50.0,650705,64.0,29.0,284.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kalevala,2.87
+lubango,0,89.0,3347762,-14.0,13.0,283.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lubango,0.77
+jinka,92,98.0,333750,5.0,36.0,289.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=jinka,0.62
+ostrowiec swietokrzyski,0,76.0,762863,50.0,21.0,281.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ostrowiec swietokrzyski,1.92
+kashary,92,98.0,552006,49.0,41.0,289.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kashary,2.32
+ouadda,20,96.0,236901,8.0,22.0,292.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ouadda,2.47
+errol,0,87.0,2649921,56.0,-3.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=errol,0.5
+sumbe,92,100.0,3346015,-11.0,13.0,296.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=sumbe,1.82
+lyantonde,44,98.0,229599,0.0,31.0,290.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lyantonde,1.72
+aizkraukle,48,80.0,461615,56.0,25.0,281.726,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=aizkraukle,1.12
+marataizes,0,100.0,3457819,-21.0,-40.0,293.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=marataizes,4.27
+vieste,36,100.0,3164387,41.0,16.0,291.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vieste,2.77
+birin,56,58.0,170017,35.0,36.0,288.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=birin,1.82
+hendek,75,100.0,745664,40.0,30.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hendek,1.32
+rundu,36,47.0,3353383,-17.0,19.0,290.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=rundu,3.22
+ayame,20,97.0,2292542,5.0,-3.0,297.926,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ayame,2.42
+oron,56,100.0,2325688,4.0,8.0,296.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=oron,1.77
+hedaru,92,95.0,159647,-4.0,37.0,292.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=hedaru,1.87
+kibala,0,73.0,2425791,9.0,18.0,297.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kibala,5.1
+debre tabor,56,51.0,339686,11.0,38.0,291.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=debre tabor,1.92
+birnin kebbi,8,67.0,2347059,12.0,4.0,299.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=birnin kebbi,4.57
+kolomak,36,97.0,705403,49.0,35.0,286.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kolomak,3.37
+svendborg,0,93.0,2612045,55.0,10.0,283.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=svendborg,3.1
+conakry,0,69.0,2422465,9.0,-13.0,299.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=conakry,2.62
+denizli,0,82.0,317106,37.0,29.0,287.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=denizli,0.62
+nyandoma,0,83.0,516647,61.0,40.0,284.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nyandoma,1.42
+awjilah,24,22.0,88533,29.0,21.0,299.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=awjilah,4.62
+zambezi,0,66.0,895953,-13.0,23.0,283.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=zambezi,2.67
+ewo,92,98.0,2260009,0.0,14.0,294.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=ewo,1.67
+paoua,56,88.0,2383523,7.0,16.0,295.776,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=paoua,6.02
+vigrestad,0,50.0,3131824,58.0,5.0,286.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=vigrestad,2.6
+westport,92,100.0,2960970,53.0,-9.0,281.826,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=westport,5.37
+samoylovka,76,59.0,498956,51.0,43.0,292.076,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=samoylovka,4.37
+lithakia,20,77.0,258241,37.0,20.0,292.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=lithakia,4.1
+yertsevo,12,58.0,467084,60.0,40.0,284.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=yertsevo,3.87
+berberati,92,97.0,2389086,4.0,15.0,294.326,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=berberati,1.97
+malko tarnovo,20,93.0,729322,41.0,27.0,288.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=malko tarnovo,0.5
+booue,76,96.0,2401495,0.0,11.0,296.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=booue,1.07
+kyabe,56,71.0,2429344,9.0,18.0,299.526,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kyabe,6.32
+conop,0,100.0,680965,46.0,21.0,286.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=conop,4.1
+nikki,20,85.0,2392505,9.0,3.0,297.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=nikki,4.67
+tondon,80,91.0,2414616,10.0,-13.0,294.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tondon,1.22
+kathu,0,79.0,991664,-27.0,23.0,278.026,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kathu,1.42
+bomi,88,91.0,2409970,7.0,-11.0,298.276,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=bomi,1.17
+beisfjord,92,93.0,3144987,68.0,17.0,281.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=beisfjord,6.2
+save,12,94.0,2391893,8.0,2.0,295.476,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=save,1.82
+montepuez,0,96.0,1037125,-13.0,39.0,290.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=montepuez,2.82
+boromlya,8,88.0,711629,50.0,34.0,286.676,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=boromlya,3.87
+jacqueville,40,88.0,2290582,5.0,-4.0,300.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=jacqueville,3.1
+arkhangelsk,0,93.0,581049,64.0,40.0,280.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=arkhangelsk,2.0
+kokstad,0,80.0,988356,-30.0,29.0,280.576,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=kokstad,1.67
+mweka,80,91.0,207596,-4.0,21.0,296.426,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mweka,1.47
+wajid,64,82.0,50814,3.0,43.0,296.626,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=wajid,3.02
+dzialdowo,0,75.0,772748,53.0,20.0,281.376,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=dzialdowo,3.02
+tonstad,0,50.0,3134327,58.0,6.0,286.15,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=tonstad,2.6
+mbandaka,92,100.0,2312895,0.0,18.0,295.126,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=mbandaka,1.62
+port shepstone,0,85.0,964406,-30.0,30.0,292.976,http://api.openweathermap.org/data/2.5/weather?appid=c520bcb9dde57ea0b29e6bbd6a4d7daa&q=port shepstone,3.67
